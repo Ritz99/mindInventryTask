@@ -1,0 +1,24 @@
+.mainHead{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+.headLogo{
+    font-size: xx-large;
+    font-weight: 700;
+}
+
+.secHead {
+    display: flex;
+    justify-content: space-around;
+}
+
+.headOption {
+    margin-left: 20px;
+    margin-right: 20px;   
+}
+
+.headOption svg {
+    font-size: 30px;
+}

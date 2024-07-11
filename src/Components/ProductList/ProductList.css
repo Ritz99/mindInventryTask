@@ -1,0 +1,23 @@
+.product {
+    margin: 20px;
+    display: grid;
+    grid-template-columns: 3fr 9fr;
+}
+
+.productList {
+    
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 1rem;
+}
+
+.singleProduct {
+    height: 400px;
+    width: 250px;
+}
+
+.singleProduct img {
+    height: 300px;
+    width: 200px;
+    object-fit: contain;
+}

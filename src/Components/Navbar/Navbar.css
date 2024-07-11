@@ -1,0 +1,10 @@
+.mainNav {
+    margin: 20px;
+}
+
+.navOption {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 15px;
+    font-weight: 600;
+}
